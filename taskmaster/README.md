@@ -1,6 +1,6 @@
 # TaskMaster
 
-#### Video Demo: <https://drive.google.com/file/d/1C4dBbPEmyOTbcrXPN5f-b4gYNOINW8IN/view?usp=sharing>
+
 
 #### Description</insert>:
 
@@ -48,5 +48,3 @@ A big shoutout to two YouTube channels that really helped me out:
 *   `templates/index.html`: The main page where you see your task list.
 *   `templates/add.html`: The page where you fill out the form to create new tasks.
 
-Github/edx username:retelect
-name:majd najeh
